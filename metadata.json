@@ -1,0 +1,6 @@
+{
+  "name": "SPOILED",
+  "description": "Premium liquid glass personal music player for your local audio collection.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

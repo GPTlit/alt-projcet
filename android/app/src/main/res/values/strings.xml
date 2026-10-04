@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SPOILED</string>
+    <string name="title_activity_main">SPOILED</string>
+    <string name="package_name">fm.spoiled.app</string>
+    <string name="custom_url_scheme">fm.spoiled.app</string>
+</resources>
